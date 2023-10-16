@@ -1,0 +1,7 @@
+Install the plugin with 'pip install requests'
+
+Script 1 = This script makes a simple HTTP GET request to a website and prints the response content.
+
+Script 2 = This script makes an HTTP GET request to a website and parses the JSON response.
+
+Script 3 = This script makes an HTTP GET request with custom headers and query parameters.
